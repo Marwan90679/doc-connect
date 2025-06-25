@@ -1,0 +1,251 @@
+[
+  {
+    "name": "Dr. Ahmed Karim",
+    "education": "MBBS, FCPS",
+    "specialty": "Cardiologist",
+    "experience": "10 years",
+    "regNumber": "C-1023",
+    "img": "https://i.ibb.co.com/Hf5VybjS/fotos-ZQFw3-C77-DDc-unsplash.jpg",
+    "educationInstitution": "Dhaka Medical College",
+    "consultationFee": 800,
+    "currentWorkplace": "Apollo Hospitals Dhaka",
+    "availability": {
+      "daysCount": 4,
+      "days": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "name": "Dr. Farhan Siddiq",
+    "education": "MBBS, MD",
+    "specialty": "Dermatologist",
+    "experience": "8 years",
+    "regNumber": "D-2044",
+    "img": "https://i.ibb.co.com/VYS92dC7/nappy-Wu-Yu-MUn-NRTI-unsplash.jpg",
+    "educationInstitution": "Sir Salimullah Medical College",
+    "consultationFee": 600,
+    "currentWorkplace": "Square Hospital",
+    "availability": {
+      "daysCount": 5,
+      "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Friday",
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "name": "Dr. Salman Rahman",
+    "education": "MBBS, MS",
+    "specialty": "Orthopedic Surgeon",
+    "experience": "12 years",
+    "regNumber": "O-3456",
+    "img": "https://i.ibb.co.com/8gfhfcN5/pexels-ivan-samkov-4989165.jpg",
+    "educationInstitution": "Rajshahi Medical College",
+    "consultationFee": 1000,
+    "currentWorkplace": "Popular Diagnostic Center",
+    "availability": {
+      "daysCount": 6,
+      "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "name": "Dr. Imran Hossain",
+    "education": "MBBS, FCPS",
+    "specialty": "Neurologist",
+    "experience": "9 years",
+    "regNumber": "N-3345",
+    "img": "https://i.ibb.co.com/svHChVV8/pexels-tima-miroshnichenko-5452186.jpg",
+    "educationInstitution": "BSMMU",
+    "consultationFee": 900,
+    "currentWorkplace": "United Hospital",
+    "availability": {
+      "daysCount": 4,
+      "days": [
+        "Sunday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "name": "Dr. Noman Ali",
+    "education": "MBBS, DCH",
+    "specialty": "Pediatrician",
+    "experience": "7 years",
+    "regNumber": "P-8765",
+    "img": "https://i.ibb.co.com/wtpxPB8/pexels-thirdman-5327921.jpg",
+    "educationInstitution": "Sylhet MAG Osmani Medical College",
+    "consultationFee": 500,
+    "currentWorkplace": "Ibn Sina Hospital",
+    "availability": {
+      "daysCount": 4,
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "name": "Dr. Rifat Chowdhury",
+    "education": "MBBS, MRCP",
+    "specialty": "Internal Medicine",
+    "experience": "11 years",
+    "regNumber": "I-4456",
+    "img": "https://i.ibb.co.com/Q7bsD4qk/img1doc.webp",
+    "educationInstitution": "Dhaka Medical College",
+    "consultationFee": 700,
+    "currentWorkplace": "LabAid Hospital",
+    "availability": {
+      "daysCount": 4,
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "name": "Dr. Omar Syed",
+    "education": "MBBS, FCPS",
+    "specialty": "ENT Specialist",
+    "experience": "10 years",
+    "regNumber": "E-6677",
+    "img": "https://i.ibb.co.com/Ldtk40Y4/pexels-tima-miroshnichenko-8376270.jpg",
+    "educationInstitution": "Chittagong Medical College",
+    "consultationFee": 600,
+    "currentWorkplace": "Evercare Hospital",
+    "availability": {
+      "daysCount": 6,
+      "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "name": "Dr. Ayman Tariq",
+    "education": "MBBS, MS",
+    "specialty": "General Surgeon",
+    "experience": "9 years",
+    "regNumber": "G-5566",
+    "img": "https://i.ibb.co.com/Lz541XVC/usman-yousaf-t-Px-S-1-IPZAo-unsplash.jpg",
+    "educationInstitution": "Sylhet MAG Osmani Medical College",
+    "consultationFee": 950,
+    "currentWorkplace": "Square Hospital",
+    "availability": {
+      "daysCount": 5,
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "name": "Dr. Mahir Hasan",
+    "education": "MBBS, DGO",
+    "specialty": "Gynecologist",
+    "experience": "6 years",
+    "regNumber": "G-2233",
+    "img": "https://i.ibb.co.com/HDyN9dtY/img3doc.webp",
+    "educationInstitution": "Rangpur Medical College",
+    "consultationFee": 700,
+    "currentWorkplace": "Medinova Medical Services",
+    "availability": {
+      "daysCount": 5,
+      "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "name": "Dr. Samiul Rahim",
+    "education": "MBBS, MD",
+    "specialty": "Urologist",
+    "experience": "8 years",
+    "regNumber": "U-4433",
+    "img": "https://i.ibb.co.com/20kkf3p1/img2doc.jpg",
+    "educationInstitution": "Dhaka Medical College",
+    "consultationFee": 850,
+    "currentWorkplace": "Popular Diagnostic Center",
+    "availability": {
+      "daysCount": 5,
+      "days": [
+        "Sunday",
+        "Monday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "name": "Dr. Tahmid Faiz",
+    "education": "MBBS, DM",
+    "specialty": "Endocrinologist",
+    "experience": "7 years",
+    "regNumber": "EN-7722",
+    "img": "https://i.ibb.co.com/5WSx9gdC/img4doc.webp",
+    "educationInstitution": "BSMMU",
+    "consultationFee": 750,
+    "currentWorkplace": "Ibn Sina Hospital",
+    "availability": {
+      "daysCount": 5,
+      "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "name": "Dr. Zakir Mahmud",
+    "education": "MBBS, MD",
+    "specialty": "Pulmonologist",
+    "experience": "10 years",
+    "regNumber": "PU-7788",
+    "img": "https://i.ibb.co.com/NnpY66cw/img5doc.webp",
+    "educationInstitution": "Sir Salimullah Medical College",
+    "consultationFee": 650,
+    "currentWorkplace": "LabAid Hospital",
+    "availability": {
+      "daysCount": 4,
+      "days": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  }
+]
