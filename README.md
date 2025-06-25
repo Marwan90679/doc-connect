@@ -54,4 +54,4 @@ This project is for **educational and portfolio** use only. It does not connect 
 
 ## 🚀 Live URL
 
-➡️ [https://your-live-link.com](https://your-live-link.com)
+➡️ [https://connectdoc.netlify.app](https://connectdoc.netlify.app)
